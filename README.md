@@ -34,7 +34,7 @@ The system consists of three main components:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/AR-Wildfire-Response.git](https://github.com/yourusername/AR-Wildfire-Response.git)
+    git clone [https://github.com/yourusername/AR-Wildfire-Response.git](https://github.com/yourusername/AR-Wildfire-Response.git](https://github.com/kostasCH20/FireEmergency_AR_System)
     ```
 
 2.  **Server Setup**
@@ -70,7 +70,7 @@ The system consists of three main components:
     * View **Weather Data** and enable wind arrows.
     * Show/Hide **Active Fires** and **Fire Spread** simulations.
     * Select **Team Members** or **POIs** to initiate navigation.
-5.  [cite_start]**Navigation:** Select a destination on the map or a team member; follow the 3D arrows projected in your view to reach the target.
+5.  **Navigation:** Select a destination on the map or a team member; follow the 3D arrows projected in your view to reach the target.
 
 ## Tech Stack
 
