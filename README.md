@@ -60,7 +60,3 @@ The system consists of three main components:
 * **Mapping:** Mapbox SDK
 * **Data Sources:** OpenMeteo, SPARK Fire Simulation
 * **Backend:** Node.js, WebSockets, Kafka
-
-## Contributions
-
-Contributions are welcome! Please fork the repository and submit a pull request for any changes.
