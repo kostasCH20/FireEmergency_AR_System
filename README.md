@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Augmented Reality (AR) application developed for the Microsoft HoloLens 2 to assist firefighting team leaders during real-time wildfire operations. Built using Unity and the Mixed Reality Toolkit 3 (MRTK3), the system enhances situational awareness by overlaying critical data—such as team positions, active fire locations, fire spread simulations, and weather conditions—directly into the user's field of view.
+This project is an Augmented Reality (AR) application developed for the Microsoft HoloLens 2 to assist firefighting team leaders during real-time wildfire operations. Built using Unity and the Mixed Reality Toolkit 3 (MRTK3), the system enhances situational awareness by overlaying critical data, such as team positions, active fire locations, fire spread simulations, and weather conditions, directly into the user's field of view.
 
 ## Features
 
