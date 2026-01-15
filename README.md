@@ -9,7 +9,7 @@ This project is an Augmented Reality (AR) application developed for the Microsof
 - **Real-Time 3D Mapping:** Interactive 3D map powered by Mapbox that visualizes the operational area, including satellite and street views.
 - **Team Coordination:** Real-time visualization of team members' locations on both the map and as AR overlays, synchronized via a Node.js server and WebSocket communication.
 - **Navigation & Routing:** Optimal pathfinding to team members or Points of Interest (POIs) using Mapbox Directions API, featuring AR-guided directional arrows.
-- **Fire Monitoring:** Integration with NASA FIRMS for active fire detection and the SPARK tool for real-time fire spread simulation.
+- **Fire Monitoring:** Active fire detection and the SPARK tool for real-time fire spread simulation.
 - **Weather Visualization:** Live weather data (temperature, wind speed/direction) from OpenMeteo API, including 3D wind direction arrows in the AR environment.
 - **Points of Interest (POIs):** Identification of critical locations such as water sources, power lines, and danger zones.
 - **Dynamic UI:** Hand-following menus and gaze-based interactions designed for high-stress environments.
