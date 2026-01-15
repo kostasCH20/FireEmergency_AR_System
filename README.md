@@ -58,7 +58,7 @@ The system consists of three main components:
 * **Hardware:** Microsoft HoloLens 2
 * **Toolkit:** MRTK3
 * **Mapping:** Mapbox SDK
-* **Data Sources:** NASA FIRMS, OpenMeteo, SPARK Fire Simulation
+* **Data Sources:** OpenMeteo, SPARK Fire Simulation
 * **Backend:** Node.js, WebSockets, Kafka
 
 ## Contributions
