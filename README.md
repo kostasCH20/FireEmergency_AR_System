@@ -32,31 +32,10 @@ The system consists of three main components:
 
 ### Steps
 
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/yourusername/AR-Wildfire-Response.git](https://github.com/yourusername/AR-Wildfire-Response.git](https://github.com/kostasCH20/FireEmergency_AR_System)
-    ```
-
-2.  **Server Setup**
-    * Navigate to the `Server` directory.
-    * Install dependencies:
-        ```bash
-        npm install
-        ```
-    * Start the server:
-        ```bash
-        node server.js
-        ```
-
-3.  **HoloLens Application**
-    * Open the `HoloLensApp` folder in Unity.
-    * Ensure the MRTK3 and Mapbox SDK packages are correctly installed.
-    * Configure the server IP address in the `NetworkManager` script.
-    * Build the project for UWP and deploy to HoloLens 2 via Visual Studio.
-
-4.  **Mobile GPS App**
-    * Open the `MobileApp` folder in Unity.
-    * Build and deploy the APK to an Android device.
+1. Clone the repository: git clone https://github.com/kostasCH20/FireEmergency_AR_System.git
+2. Open the project in Unity.
+3. Ensure you have the MRTK and necessary packages installed.
+4. Build and deploy to HoloLens 2.
 
 ## Usage
 
