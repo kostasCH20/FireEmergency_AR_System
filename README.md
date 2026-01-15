@@ -50,7 +50,8 @@ The system consists of three main components:
     * Show/Hide **Active Fires** and **Fire Spread** simulations.
     * Select **Team Members** or **POIs** to initiate navigation.
 5.  **Navigation:** Select a destination on the map or a team member; follow the 3D arrows projected in your view to reach the target.
-
+6. **Fire and Weather Monitoring:** Toggle the respective panels to view active fire locations and localized weather forecasts.
+   
 ## Tech Stack
 
 * **Engine:** Unity
